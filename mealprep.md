@@ -1,18 +1,18 @@
-Meal Prep as Group Practice
+# Meal Prep as Group Practice
 **Status:** Rough draft
 **Created:** May 15th, 2017
 **Modified:** May 29th, 2017
 
-###INTRO (THEORY)###
+### INTRO (THEORY)
 Most recently popularized by Bodybuilding culture. Meal prep has been a staple of food traditions in many cultures and kitchens.
 
 It is an idea with which I have been enamored with over many periods and trials. It is a practice which makes sense so immediately, the logical aspiration, the “having my shit together”-ness of it. But inevitably, for as many times I’ve started meal prep, I’ve equally had it disrupted due to work travel, scheduling conflicts, and general lack of discipline. Each time I would start and each time I would fail gradually and without much fanfare. For I know I don’t have the discipline and that I have other obligations. Yet to meal prep, must we all be great men (and women)?
 
-###BEYOND INDIVIDUALISM###
+### BEYOND INDIVIDUALISM
 With Biosphere(x) developing its practices and systems, striving towards autonomy and group resilience.
 It was clear to me that b(x)’s values and prediliction to group meals and traditional food knowledge was fertile ground to experiment with my ideas. 
 
-Inspired by the many community groups doing great work building traditions of food in NY and elsewhere. (ancestral-minded community-supported worker-cooperative kitchen http://www.threestonehearth.com/) and my own personal experience with meal prep.
+Inspired by the many community groups doing great work building traditions of food in NY and elsewhere (see [Three Stone Hearth](http://www.threestonehearth.com/), the ancestral-minded community-supported worker-cooperative kitchen) and my own personal experience with meal prep.
 
 I proposed implementing a fusion of the two ideas into our group’s practice, transforming a solitary activity of personal development into one of social bonds and community development. 
 
@@ -32,7 +32,7 @@ Cooking for a group for days is an act of love.
 
 Together, we are sharpening our knives, experimenting with ideas, developing a system and practice, and ever aligning in solidarity. Every time I eye that bag of candy or chips. I’m less likely to indulge knowing that I have a meal in the fridge, already neatly packaged, especially one in which positive energy (and skill!) our crew put into the meals. 
 
-###POEISIS - MEAL PREP #1, Sunday, May 7th, 2017###
+### POEISIS - MEAL PREP #1, Sunday, May 7th, 2017
 
 Despite not clearly synthesizing this thought process, the biosphere(x) core quickly agreed to give it a shot. Perhaps, many had similar experiences that I had trying to implement meal prep on and off-and-on basis. After very briefly introducing the idea a month or so again, and then in more in-depth two weeks ago, we finalized on a Sunday to start.
  
@@ -55,7 +55,7 @@ As we rotated on stations, hung out, played music from Maddy and Josh’s extens
 
 While the scale is small, a couple meals over a week, we are gradually intertwining our lives.. I jokingly offer the idea of only eating this meal for the rest of the year and incrementally improving the recipe. It is a testament to this group that Josh immediately responded with, “I’m so down”. I am already excited for the next one. 
 
-###LEARNINGS###
+### LEARNINGS
 Learnings for the second run of Meal Prep
 
 * More chilli paste
