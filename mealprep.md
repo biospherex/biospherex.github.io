@@ -1,4 +1,4 @@
-﻿## Meal Prep as Group Practice
+## Meal Prep as Group Practice
 **Status:** Rough draft
 **Created:** May 15th, 2017
 **Modified:** May 29th, 2017
